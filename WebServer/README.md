@@ -5,3 +5,5 @@ Here I will create a simple webserver using Flask framework, which is lightweigh
 After running python main.py you will see this:
 
 ![Screenshot (931)](https://github.com/aoko-code/DevOps-Journey/assets/78419084/6b8dcc9c-ef82-4647-973a-da9985e22f06)
+
+You can store your html templates in the templates folder and create anothe route that will create a more personalized view. 
